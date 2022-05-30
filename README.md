@@ -1,2 +1,2 @@
 # dice-game
-Dice Game Web App
+Dice Game Website
